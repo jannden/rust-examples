@@ -8,4 +8,7 @@ See this project live in the [Rust playground](https://play.rust-lang.org/?versi
 
 ## Build it and run it yourself
 
-Use [rustup](https://rustup.rs/) to install the latest stable version of Rust, then clone this repository and run `cargo build` in the project's root directory to build and run the calculator.
+1. Use [rustup](https://rustup.rs/) to install the latest stable version of Rust.
+2. Clone this repository.
+3. Open the directory of this project with `cd simple-calculator`
+4. Start it up with `cargo run`.
