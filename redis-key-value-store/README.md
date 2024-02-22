@@ -5,7 +5,7 @@ This is an example project for my blog post on [how to write a Redis-like key-va
 ## How to use it
 
 1. Use [rustup](https://rustup.rs/) to install the latest stable version of Rust.
-2. Clone this repository.
+2. Clone the repository.
 3. Open the directory of this project with `cd redis-key-value-store`
 4. Start it up with `cargo run`.
 5. Open another terminal and connect as per the instructions below.

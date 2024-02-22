@@ -9,6 +9,6 @@ See this project live in the [Rust playground](https://play.rust-lang.org/?versi
 ## Build it and run it yourself
 
 1. Use [rustup](https://rustup.rs/) to install the latest stable version of Rust.
-2. Clone this repository.
+2. Clone the repository.
 3. Open the directory of this project with `cd simple-number-guessing`
 4. Start it up with `cargo run`.
