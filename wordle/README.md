@@ -1,6 +1,6 @@
-# Simple Calculator in Rust
+# Wordle Game in Rust
 
-This is an example project for my blog post on [how to write a Wordle clone in Rust](https://medium.com/@jannden/4d87831672da).
+This is an example project for my blog post on [how to write a Wordle-like game in Rust](https://medium.com/@jannden/4d87831672da).
 
 ## How to use it
 
