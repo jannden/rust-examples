@@ -1,7 +1,5 @@
 # Bitcoin Handshake in Rust
 
-This is an example project for my blog post [Bitcoin Handshake Guide for Rust](https://medium.com/@jannden/0b9aab2d869b).
-
 ## How to use it
 
 1. Use [rustup](https://rustup.rs/) to install the latest stable version of Rust.
